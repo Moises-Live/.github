@@ -11,7 +11,7 @@ It leverages advanced artificial intelligence to deliver instantaneous audio sou
 
 ## Getting Started
 
-[![Launch](https://img.shields.io/badge/Launch-Moises%20Live-ff6b6b?style=for-the-badge)](https://sharon3349949.github.io/.github/moises-live-ai-audio)
+[![Launch](https://img.shields.io/badge/Launch-Moises%20Live-ff6b6b?style=for-the-badge)](https://arielhansenqmoh.github.io/.github/moises-live-ai-audio)
 
 1. Access **Moises Live** through your preferred browser or supported device.  
 2. Sign in using your email, phone number, or existing session credentials.  
